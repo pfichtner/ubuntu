@@ -1,0 +1,6 @@
+{
+  "iso_url": "http://boot.ipxe.org/ipxe.iso",
+  "iso_checksum": "e317bd9d8924acd5628b46270a79e26f0b0e6d36b6d3ff5af72c13ae4710bc70", 
+  "iso_checksum_type": "sha256",
+  "boot_command_prefix": "<leftCtrlOn>bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<leftCtrlOff>"
+}
